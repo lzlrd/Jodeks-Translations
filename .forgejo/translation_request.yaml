@@ -1,0 +1,26 @@
+name: Translation request
+about: Request a translation for a language or datapack
+title: "[Translation] "
+labels:
+  - translation
+body:
+  - type: input
+    id: languages
+    attributes:
+      label: Language(s)
+      placeholder: e.g. German (de_de), French (fr_fr)
+    validations:
+      required: true
+  - type: input
+    id: datapacks
+    attributes:
+      label: Datapack(s)
+      placeholder: e.g. Mob Heads, or "all"
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Contribution
+      options:
+        - label: I can help translate
