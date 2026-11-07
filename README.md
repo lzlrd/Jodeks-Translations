@@ -1,3 +1,5 @@
+GitHub mirror of [Jodek's Translations](https://codeberg.org/jodeks-datapacks/Jodeks-Translations). [Releases](https://github.com/lzlrd/Jodeks-Translations/releases) here are built from upstream `main`, whose text keys match Mob Heads 5.3.1; the Modrinth 1.3.0 release predates them.
+
 <div align="center">
   
 ![minecraft datapack title...](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/jodeks_translations.png)
